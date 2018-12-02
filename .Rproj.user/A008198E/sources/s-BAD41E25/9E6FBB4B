@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543728315204.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2274802570",
+    "id" : "9E6FBB4B",
+    "lastKnownWriteTime" : 1543728384,
+    "last_content_update" : 1543728384098,
+    "path" : "~/Documents/GitHub/AOC-2018/input/input-day2-part1.txt",
+    "project_path" : "input/input-day2-part1.txt",
+    "properties" : {
+        "cursorPosition" : "249,26",
+        "scrollLine" : "228",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543730331205.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "73FB7449",
+    "lastKnownWriteTime" : 1543733257,
+    "last_content_update" : 1543733257919,
+    "path" : "~/Documents/GitHub/AOC-2018/solutions/solution-day2-part2.R",
+    "project_path" : "solutions/solution-day2-part2.R",
+    "properties" : {
+        "cursorPosition" : "23,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
